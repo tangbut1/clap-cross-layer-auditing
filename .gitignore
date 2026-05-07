@@ -1,0 +1,22 @@
+# Python virtual environment
+.venv/
+
+# Python bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+
+# macOS
+.DS_Store
+
+# IDE
+.vscode/
+.idea/
+
+# Logs
+experiment.log
+
+# Distribution
+dist/
+build/
+*.egg-info/

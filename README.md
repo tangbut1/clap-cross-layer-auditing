@@ -120,19 +120,6 @@ The fixed metadata overhead is ~930 bytes regardless of resolution; the percenta
 3. **Lossless WebP** encoding in the prototype ensures watermark survival; production deployment would add error-correction coding for lossy tolerance.
 4. **Ed25519** for C2PA signatures — fast, compact (64-byte signatures), and widely adopted.
 
-## Citation
-
-If you use this code in your research, please cite:
-
-```bibtex
-@inproceedings{clap2025,
-  title     = {Cross-Layer Auditing Protocol: Eliminating Integrity Conflicts
-               in AI-Generated Content Provenance},
-  author    = {CLAP Research Team},
-  booktitle = {IEEE Symposium on Security and Privacy},
-  year      = {2025},
-}
-```
 
 ---
 *Author: Cross-Layer Auditing Protocol Research Team*

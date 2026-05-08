@@ -2,7 +2,6 @@
 
 A complete prototype verification system for the **Cross-Layer Auditing Protocol (CLAP)**, designed to eliminate "integrity conflict" vulnerabilities in AI-generated content provenance. Jointly evaluates C2PA metadata signatures and DWT-domain invisible watermarks through a decision matrix to produce authoritative provenance verdicts.
 
-This project serves as the experimental backbone for a top-tier conference paper submission.
 
 ## Core Idea
 
